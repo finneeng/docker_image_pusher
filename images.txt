@@ -1,6 +1,8 @@
 nextcloud/all-in-one:latest
 ramisec/nessus
 mariadb:10.5
+nextcloud:stable-fpm-alpine
+nextcloud:stable-fpm
 nextcloud
 nginx
 redis
