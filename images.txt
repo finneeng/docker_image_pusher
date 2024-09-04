@@ -1,2 +1,6 @@
 nextcloud/all-in-one:latest
 ramisec/nessus
+mariadb:10.5
+nextcloud:fpm
+nginx
+redis
