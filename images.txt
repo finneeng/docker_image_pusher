@@ -4,5 +4,7 @@ mariadb:10.5
 nextcloud:stable-fpm-alpine
 nextcloud:stable-fpm
 nextcloud
+mysql:8.0
+linuxserver/nextcloud
 nginx
 redis
