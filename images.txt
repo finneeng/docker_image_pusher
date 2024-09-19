@@ -9,3 +9,6 @@ mysql:8.0
 linuxserver/nextcloud
 nginx
 redis
+postgres:15-alpine
+elasticsearch:7.17.21
+ghcr.io/requarks/wiki:2
