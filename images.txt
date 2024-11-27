@@ -14,3 +14,4 @@ elasticsearch:7.17.21
 ghcr.io/requarks/wiki:2
 docker.io/flannel/flannel:v0.25.7
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+newdeveloper/apache-php
