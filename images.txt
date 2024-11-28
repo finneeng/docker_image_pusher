@@ -1,7 +1,3 @@
-ramisec/nessus
-postgres:15-alpine
-elasticsearch:7.17.21
-ghcr.io/requarks/wiki:2
-mongo:6.0.18
-opensearchproject/opensearch:2.15.0
-graylog/graylog-enterprise:6.1
+grafana/loki
+grafana/promtail
+grafana/grafana
