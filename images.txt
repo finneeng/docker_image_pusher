@@ -15,3 +15,6 @@ ghcr.io/requarks/wiki:2
 docker.io/flannel/flannel:v0.25.7
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 newdeveloper/apache-php
+mongo:6.0.18
+opensearchproject/opensearch:2.15.0
+graylog/graylog-enterprise:6.1
