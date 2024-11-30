@@ -3,4 +3,4 @@
 #grafana/grafana
 #victoriametrics/victoria-logs
 #loggieio/loggie
-loggieio/loggie
+loggieio/loggie:main
