@@ -1,5 +1,6 @@
-grafana/loki
-grafana/promtail
-grafana/grafana
-victoriametrics/victoria-logs
+#grafana/loki
+#grafana/promtail
+#grafana/grafana
+#victoriametrics/victoria-logs
+#loggieio/loggie
 loggieio/loggie
