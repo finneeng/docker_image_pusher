@@ -2,4 +2,3 @@ grafana/loki
 grafana/promtail
 grafana/grafana
 victoriametrics/victoria-logs
-loggieio/loggie:main
