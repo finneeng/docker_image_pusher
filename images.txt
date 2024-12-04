@@ -1,3 +1,4 @@
+containrrr/watchtower
 grafana/loki
 grafana/promtail
 grafana/grafana
