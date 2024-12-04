@@ -5,3 +5,7 @@ grafana/grafana
 victoriametrics/victoria-logs
 ramisec/nessus
 nuzis/textfsm:v2
+nginx
+postgres
+mysql
+busybox
