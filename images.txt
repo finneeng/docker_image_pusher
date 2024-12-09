@@ -1,4 +1,6 @@
 containrrr/watchtower
+portainer/portainer-ce
+portainer/agent
 grafana/loki
 grafana/promtail
 grafana/grafana
