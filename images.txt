@@ -11,4 +11,4 @@ nginx
 postgres
 mysql
 busybox
-mirrored-pause:3.6
+rancher/mirrored-pause:3.6
