@@ -1,6 +1,7 @@
 containrrr/watchtower
 portainer/portainer-ce
 portainer/agent
+onlyoffice/documentserver
 grafana/loki
 grafana/promtail
 grafana/grafana
