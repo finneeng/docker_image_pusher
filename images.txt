@@ -14,3 +14,4 @@ nginx
 postgres
 mysql
 busybox
+apache/hertzbeat
