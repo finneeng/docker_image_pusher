@@ -13,5 +13,7 @@ nuzis/textfsm:v2
 nginx
 postgres
 mysql
+mariadb
+postgresql
 busybox
 apache/hertzbeat
