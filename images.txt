@@ -17,3 +17,4 @@ mariadb
 postgres
 busybox
 apache/hertzbeat
+ghcr.io/freifunkmuc/wg-access-server
