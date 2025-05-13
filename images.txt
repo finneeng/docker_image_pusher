@@ -18,3 +18,4 @@ postgres
 busybox
 apache/hertzbeat
 ghcr.io/freifunkmuc/wg-access-server
+registry.rocket.chat/rocketchat/rocket.chat:6.10.10
