@@ -19,3 +19,4 @@ ghcr.io/librespeed/speedtest
 vaultwarden/server:latest
 vaultwarden/server:testing-alpine
 nickfedor/watchtower
+kasmweb/chrome
