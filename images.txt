@@ -1,1 +1,1 @@
-kasmweb/chrome:1.18.0
+vbkunin/itop
